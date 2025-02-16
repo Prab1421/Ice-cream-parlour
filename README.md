@@ -18,4 +18,4 @@ Want to build a stunning and fully responsive Ice Cream Shop website? In this st
 
 🔔 Don't forget to Like, Share & Subscribe for more amazing web development tutorials!
 
-![121-1](assets/ice-parlour.png)
+![ice-cream](assets/ice-parlour.png)
