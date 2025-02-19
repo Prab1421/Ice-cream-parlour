@@ -8,3 +8,6 @@ It is a responsive ice-cream parlour website made using html, css and js.
 🎨 Perfect for ice cream shops, dessert cafes, and small businesses!
 
 ![ice-cream](assets/ice-parlour.png)
+
+# Deployed Link
+[Live-Demo](https://ice-cream-parlour-prabhat.netlify.app/)
